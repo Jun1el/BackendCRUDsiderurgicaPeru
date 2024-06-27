@@ -1,0 +1,7 @@
+uni\isw\springsgbackend\SpringsgbackendApplication.class
+uni\isw\springsgbackend\model\Cliente.class
+uni\isw\springsgbackend\repository\ClienteRepository.class
+uni\isw\springsgbackend\model\Cliente$ClienteBuilder.class
+uni\isw\springsgbackend\service\ClienteService.class
+uni\isw\springsgbackend\controller\ClienteController.class
+uni\isw\springsgbackend\SpringsgbackendApplication$1.class
